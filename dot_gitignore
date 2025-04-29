@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*.swo
+.pytest_cache
+__pycache__
+client_secret.json
+log_reports
+.DS_Store
+~/.config/nvim/plugin/packer_compiled.lua
+venv
+testdata
+.report.json
